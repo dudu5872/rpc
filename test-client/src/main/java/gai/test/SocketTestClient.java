@@ -3,9 +3,9 @@ package gai.test;
 import gai.api.ByeService;
 import gai.api.HelloObject;
 import gai.api.HelloService;
-import gai.common.serializer.CommonSerializer;
-import gai.common.transport.RpcClientProxy;
-import gai.common.transport.socket.client.SocketClient;
+import gai.serializer.CommonSerializer;
+import gai.transport.RpcClientProxy;
+import gai.transport.socket.client.SocketClient;
 
 /**
  * 测试用消费者（客户端）

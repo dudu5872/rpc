@@ -1,6 +1,6 @@
 package gai.test;
 
-import gai.common.annotation.Service;
+import gai.annotation.Service;
 import gai.api.ByeService;
 
 /**

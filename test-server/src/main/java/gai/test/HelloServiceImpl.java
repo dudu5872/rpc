@@ -2,7 +2,7 @@ package gai.test;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import gai.common.annotation.Service;
+import gai.annotation.Service;
 import gai.api.HelloObject;
 import gai.api.HelloService;
 
